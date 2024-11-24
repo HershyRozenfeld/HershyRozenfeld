@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @HershyRozenfeld  
+- 👀 I’m interested in technology, web development, and exploring innovative ideas in software.  
+- 🌱 I’m currently learning full-stack development with a focus on mastering Node.js and creating impactful projects.  
+- 💞️ I’m looking to collaborate on unique web applications, Chrome extensions, and innovative tools for productivity and education.  
+- 📫 How to reach me: hershy.rozenfeld@gmail.com
+- ⚡ Fun fact: I love designing engaging user interfaces but always have to remind myself to balance design with functionality!  
